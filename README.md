@@ -138,7 +138,7 @@ current_focus = {
 
 If you're working on **AI tooling, developer infrastructure, or trust systems** — I'd like to hear about it.
 
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:er.raj.prajapat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:er.rajprajapat712@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/er-raj-prajapat)
 
